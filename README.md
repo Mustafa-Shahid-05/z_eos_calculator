@@ -36,4 +36,3 @@ The program then computes the compressibility factor and corresponding molar vol
 - PyQt5
 - Qt Designer
 
-## Project Structure
